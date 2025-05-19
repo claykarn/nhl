@@ -4,7 +4,7 @@ This project collects and analyzes YouTube video data from official NHL team cha
 
 ## What's Included
 
-- **`nhldata.csv`** — A dataset of 183 videos published between **May 5 and May 12, 2025** (The first week of Round 2 of the NHL Playoffs. The dataset tracks the 8 NHL teams remaining in Round 2.
+- **`nhldata.csv`** — A dataset of 183 videos published between **May 5 and May 12, 2025** (The first week of Round 2 of the NHL Playoffs). The dataset tracks the 8 NHL teams remaining in Round 2.
   - Each row represents one video, with columns for:
     - `team`
     - `title`
