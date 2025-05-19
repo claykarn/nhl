@@ -20,8 +20,9 @@ This project collects and analyzes YouTube video data from official NHL team cha
 ## Scraper Setup & Customization
 
 To setup the scraper:
-1. Copy `.env.example` → `.env`
-2. Add your YouTube API key:
+1. Get a [YouTube Data API](https://console.cloud.google.com/marketplace/product/google/youtube.googleapis.com?inv=1&invt=Abx1_Q) key
+2. Copy `.env.example` → `.env`
+3. Add your YouTube Data API key:
   YT_API_KEY= 'your_actual_key_here'
 
 To scrape data for other YouTube channels or date ranges:
